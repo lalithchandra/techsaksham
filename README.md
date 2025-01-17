@@ -1,4 +1,4 @@
-# Customer Shopping Trends Analysis
+# Identifying Shopping Trends using Data Analysis (P3)
 
 ## Overview
 
