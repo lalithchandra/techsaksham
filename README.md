@@ -29,30 +29,6 @@ This repository contains the code and analysis for a project aimed at uncovering
 - **Visualization**: Treemap
 - **Explanation**: A treemap was used to show the popularity of clothing items in different locations. For example, Georgia stands out as a popular state for blouse, dress, and sandals purchases.
 
-## Getting Started
-
-To explore this analysis and replicate the results, follow these steps:
-
-1. Clone this repository:
-
-   ```
-   git clone https://github.com/your-username/customer-shopping-trends-analysis.git
-   ```
-
-2. Install the required dependencies:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Open and run the Jupyter Notebook [MallaOli_10915723_CC2B.ipynb](MallaOli_10915723_CC2B.ipynb) to dive into the analysis.
-
 ## Contributing
 
 Contributions to this project are welcome! If you have ideas for improvements or additional insights, please open an issue or a pull request. Your contributions will be greatly appreciated.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
-Feel free to customize this template further with additional information, visuals, or insights you want to highlight. Make sure to replace "your-username" with your actual GitHub username and add the actual paths or filenames as needed. Good luck with your GitHub repository!
